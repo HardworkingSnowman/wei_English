@@ -84,7 +84,8 @@ Growing pains are really just a label (29) all sorts of uncertainties. Doctors k
 are not (30) dietary deficiency or growth problems. They seem more common in active children,
 and they tend to run in families.
 ```
-26. (A) so (B) but (C) or (D) nor
+## 26
+(A) so (B) but (C) or (D) nor
 27. (A) maximally (B) practically (C) willingly (D) competently
 28. (A) diagnose (B) affect (C) remember (D) strike
 29. (A) confining (B) covering (C) complicating (D) clearing
