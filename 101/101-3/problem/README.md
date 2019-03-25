@@ -6,9 +6,8 @@ Mother’s Day is a time to __________ the special bond between mother and child
 (A) eliminate (B) appreciate (C) manipulate (D) calculate
 ## 12
 ``` 
-The popularity of pizza in the U.S. exploded when American soldiers __________ home after
+The popularity of pizza in the U.S. exploded when American soldiers __________ home after World War II.
 ```
-World War II.
 (A) returned (B) escaped (C) abandoned (D) bombed
 ## 13
 ```
