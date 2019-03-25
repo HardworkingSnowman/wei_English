@@ -58,11 +58,10 @@ Clerk: Well, I’ll see what I can do.
 (C) It won’t cost you much.
 (D) I owe you one.
 
-```
-Answering machine: Hi. This is Jean. Please leave your message after the beep.
+
+> Answering machine: Hi. This is Jean. Please leave your message after the beep.
 Tom: Hi. This is Tom....
 Jean: Oh, hi, Tom. It’s Jean. _______________ I was in the shower.
-```
 (A) I cannot come to the phone right now.
 (B) Please leave a message.
 (C) Sorry I didn’t answer the phone right away.
