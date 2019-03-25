@@ -55,6 +55,7 @@ choices and feelings.
 (D) Please ask her to call me back.
 
 # 綜合測驗
+```
 Growing pains affect around 40 % of children to varying degrees. Nobody knows why they
 happen, (26) one thing is clear—they have nothing to do with growth. Children grow (27) as
 babies or during adolescence, but these are not times when they get growing pains. According to
@@ -63,6 +64,7 @@ easier to (28) than its medical name, “benign idiopathic nocturnal limb pains 
 Growing pains are really just a label (29) all sorts of uncertainties. Doctors know that the pains
 are not (30) dietary deficiency or growth problems. They seem more common in active children,
 and they tend to run in families.
+```
 26. (A) so (B) but (C) or (D) nor
 27. (A) maximally (B) practically (C) willingly (D) competently
 28. (A) diagnose (B) affect (C) remember (D) strike
