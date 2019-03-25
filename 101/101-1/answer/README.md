@@ -6,6 +6,11 @@ __________ the people have.
 ```
 (A) types (B) crimes (C) rights (D) states
 * Ans: C
+```
+(B) crime: n. 罪， criminal: n. 罪犯
+(C) right: n. 權利、右邊、正義  adj. 正確的
+(D) state: n. 州、情況 
+```
 
 ## 2
 ```
@@ -13,7 +18,7 @@ Life is__________ enough, but it can even be challenging if your self-perception
 not smart and that you will never be successful.
 ```
 (A) pleasant (B) amusing (C) unique (D) tough
-* Ans: B
+* Ans: D
 
 ## 3
 ``` 
@@ -21,7 +26,11 @@ Most often, hay fever is an allergic __________ to the pollen of trees, grasses 
 spores of molds.
 ```
 (A) reaction (B) function (C) injury (D) treatment
-* Ans: D
+* Ans: A
+```
+(A) reaction: n. 反應， allergic reaction: 過敏反應
+(C) injury: n. 傷， injure v. 損害
+```
 
 ## 4
 ``` 
@@ -30,6 +39,10 @@ Taiwan’s Penghu Islands were __________ to Lonely Planet’s Top Ten Secret Is
 ```
 (A) proved (B) added (C) robbed (D) formed
 * Ans: B
+```
+(B) add: v. 增加， be added to: 被加進...
+(C) rob: v. 搶劫， robber: n. 強盜
+```
 
 ## 5
 ``` 
@@ -38,6 +51,11 @@ choices and feelings.
 ```
 (A) curiosity (B) competition (C) maturity (D) champion
 * Ans: C
+```
+(A) curiosity: n. 好奇心， curious: adj. 好奇的
+(B) competition: n. 競爭、比賽， competitive: adj. 競爭的
+(C) maturity: n. 成熟， mature: adj. 成熟的
+```
 
 # 對話測驗
 ## 16
@@ -114,7 +132,26 @@ are not (30) dietary deficiency or growth problems. They seem more common in act
 and they tend to run in families.
 ```
 26. (A) so (B) but (C) or (D) nor
+* Ans: B
 27. (A) maximally (B) practically (C) willingly (D) competently
+* Ans: A
+```
+(C) willingly: adv. 願意地、甘心地， willing: n.願意
+(D) competently: adv. 能勝任地， competent: adj. 有能力的、能勝任的
+```
 28. (A) diagnose (B) affect (C) remember (D) strike
+* Ans: C
+```
+(A) diagnose: v. 診斷， diagnosis: n. 診斷
+(D) strike: v. 罷工、打擊
+```
 29. (A) confining (B) covering (C) complicating (D) clearing
+* Ans: B
 30. (A) linked to (B) meant for (C) depended on (D) resided in
+* Ans: A
+```
+(A) be linked to: 與...有關， link:連結
+(B) be meant for: 為了...
+(C) be depened on: 依賴...
+(D) be resided in: 住在...
+```
