@@ -16,16 +16,22 @@ choices and feelings.
 * (A) curiosity (B) competition (C) maturity (D) champion
 
 # 對話測驗
-16. Jim: What are you doing tonight?
+16. 
+```
+Jim: What are you doing tonight?
  Chris: I’m not sure yet. I might watch a baseball game.
  Jim: _______________ You never like sports.
+```
 (A) Never mind. (B) Of course I will.
 (C) You’re joking. (D) See you tomorrow.
-17. Officer: Good morning. Where do you come from?
+17. 
+```
+ Officer: Good morning. Where do you come from?
  Mr. Chen: I am from Taiwan.
  Officer: Fine. _______________
  Mr. Chen: Here you are.
  Officer: Welcome to the United Kingdom. Enjoy your stay.
+ ```
 (A) Where would you like to stay?
 (B) How long are you staying in the United Kingdom?
 (C) What’s the nature of your visit?
