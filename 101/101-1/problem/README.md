@@ -9,7 +9,7 @@ not smart and that you will never be successful.
 spores of molds.
 (A) reaction (B) function (C) injury (D) treatment
 4. Taiwan’s Penghu Islands were __________ to Lonely Planet’s Top Ten Secret Islands list in
-2011.
+2011
 (A) proved (B) added (C) robbed (D) formed
 5. An important sign of __________ in a person is his/ her respect for others’ existence, need,
 choices and feelings.
