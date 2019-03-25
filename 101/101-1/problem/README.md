@@ -58,7 +58,7 @@ Clerk: Well, I’ll see what I can do.
 (C) It won’t cost you much.
 (D) I owe you one.
 
-> 20
+## 20
 ```
 Answering machine: Hi. This is Jean. Please leave your message after the beep.
 Tom: Hi. This is Tom....
