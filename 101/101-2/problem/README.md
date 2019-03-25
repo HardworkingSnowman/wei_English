@@ -75,8 +75,7 @@ Chinese fans have been watching Lin’s highlights on state-run sports channels 
 Especially after the retirement of China’s Yao Ming last year, Lin looks to be a crowd favorite—
 and a dream spokesperson for all sorts of brands and products.
 ```
-41. Which of the following is NOT about Lin’s surprising success?
-* 
+41. Which of the following is NOT about Lin’s surprising success?  
 (A) He had the 38-point performance in the Knicks vs. Lakers game.
 (B) The sale of his No. 17 jersey was stagnant.
 (C) A wide selection of Lin-themed merchandise can be made available.
