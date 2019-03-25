@@ -80,22 +80,22 @@ and a dream spokesperson for all sorts of brands and products.
 (B) The sale of his No. 17 jersey was stagnant.
 (C) A wide selection of Lin-themed merchandise can be made available.
 (D) He was the biggest contributor of Knicks’ five consecutive wins.
-42. What is the possible denotation(意義) of Lin being a “benchwarmer”?
+42. What is the possible denotation(意義) of Lin being a “benchwarmer”?  
 (A) Lin was highly valued.
 (B) Lin was not as diligent as he is now.
 (C) Lin was less motivated than he had been expected to.
 (D) Lin was undervalued and not given enough chances to play.
-43. What does it mean by Lin being an undrafted player?
+43. What does it mean by Lin being an undrafted player?  
 (A) Lin was an eligible player and yet not first selected in a draft.
 (B) Lin was disqualified to play for any NBA team.
 (C) Lin was not given a sports agent to discuss his contract with any team.
 (D) Lin was drafted and yet banned to play in NBA games.
-44. What is the main emphasis of Lin’s success being discussed in the passage?
+44. What is the main emphasis of Lin’s success being discussed in the passage?  
 (A) Lin will have to consider his new contract sooner.
 (B) Lin’s success begins with charity.
 (C) Lin will continue his success if appropriately coached.
 (D) Lin’s success brings forth substantial gains.
-45. What can be inferred by the above passage in regard to Jeremy Lin’s ethnicity?
+45. What can be inferred by the above passage in regard to Jeremy Lin’s ethnicity?  
 (A) Asian Americans are appreciated enough in the US.
 (B) Being a Taiwanese descent, Lin has less support from China and Taiwan than in the US.
 (C) In sports, ethnicity is a key element for athletes to succeed.
