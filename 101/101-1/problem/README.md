@@ -1,10 +1,16 @@
 # 字彙測驗
-1. The United States Constitution was written in 1787. It tells how the government works and what
+## 1
+```
+The United States Constitution was written in 1787. It tells how the government works and what
 __________ the people have.
-* (A) types (B) crimes (C) rights (D) states
-2. Life is__________ enough, but it can even be challenging if your self-perception is that you are
+```
+(A) types (B) crimes (C) rights (D) states
+## 2
+```
+Life is__________ enough, but it can even be challenging if your self-perception is that you are
 not smart and that you will never be successful.
-* (A) pleasant (B) amusing (C) unique (D) tough
+```
+(A) pleasant (B) amusing (C) unique (D) tough
 3. Most often, hay fever is an allergic __________ to the pollen of trees, grasses or weeds, or the
 spores of molds.
 * (A) reaction (B) function (C) injury (D) treatment
