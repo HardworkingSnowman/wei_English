@@ -11,15 +11,24 @@ Life is__________ enough, but it can even be challenging if your self-perception
 not smart and that you will never be successful.
 ```
 (A) pleasant (B) amusing (C) unique (D) tough
-3. Most often, hay fever is an allergic __________ to the pollen of trees, grasses or weeds, or the
+## 3
+``` 
+Most often, hay fever is an allergic __________ to the pollen of trees, grasses or weeds, or the
 spores of molds.
-* (A) reaction (B) function (C) injury (D) treatment
-4. Taiwan’s Penghu Islands were __________ to Lonely Planet’s Top Ten Secret Islands list in
+```
+(A) reaction (B) function (C) injury (D) treatment
+## 4
+``` 
+Taiwan’s Penghu Islands were __________ to Lonely Planet’s Top Ten Secret Islands list in
 2011.
-* (A) proved (B) added (C) robbed (D) formed
-5. An important sign of __________ in a person is his/ her respect for others’ existence, need,
+```
+(A) proved (B) added (C) robbed (D) formed
+## 5
+``` 
+An important sign of __________ in a person is his/ her respect for others’ existence, need,
 choices and feelings.
-* (A) curiosity (B) competition (C) maturity (D) champion
+```
+(A) curiosity (B) competition (C) maturity (D) champion
 
 # 對話測驗
 ## 16
