@@ -16,15 +16,14 @@ choices and feelings.
 * (A) curiosity (B) competition (C) maturity (D) champion
 
 # 對話測驗
-16. 
-```
+``` 
 Jim: What are you doing tonight?
 Chris: I’m not sure yet. I might watch a baseball game.
 Jim: _______________ You never like sports.
 ```
 (A) Never mind. (B) Of course I will.
 (C) You’re joking. (D) See you tomorrow.
-17. 
+ 
 ```
 Officer: Good morning. Where do you come from?
 Mr. Chen: I am from Taiwan.
@@ -37,8 +36,7 @@ Officer: Welcome to the United Kingdom. Enjoy your stay.
 (C) What’s the nature of your visit?
 (D) May I see your passport?
 
-18.
-``` 
+```
 Clerk: Do you have a reservation?
 Jack: Yes, I do. The name is Wang. W-A-N-G. Jack Wang.
 Clerk: _______________
@@ -48,8 +46,7 @@ Jack: That can’t be right. I have my confirmation number here.
 (B) Smoking or non-smoking?
 (C) Here you are.
 (D) I’m sorry. I don’t have anything under that name.
-
-19. 
+ 
 ```
 Customer: Could I get this tuxedo dry-cleaned by tomorrow?
 Clerk: _______________
@@ -61,7 +58,6 @@ Clerk: Well, I’ll see what I can do.
 (C) It won’t cost you much.
 (D) I owe you one.
 
-20.
 ```
 Answering machine: Hi. This is Jean. Please leave your message after the beep.
 Tom: Hi. This is Tom....
