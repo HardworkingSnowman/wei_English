@@ -19,42 +19,54 @@ choices and feelings.
 16. 
 ```
 Jim: What are you doing tonight?
- Chris: I’m not sure yet. I might watch a baseball game.
- Jim: _______________ You never like sports.
+Chris: I’m not sure yet. I might watch a baseball game.
+Jim: _______________ You never like sports.
 ```
 (A) Never mind. (B) Of course I will.
 (C) You’re joking. (D) See you tomorrow.
 17. 
 ```
- Officer: Good morning. Where do you come from?
- Mr. Chen: I am from Taiwan.
- Officer: Fine. _______________
- Mr. Chen: Here you are.
- Officer: Welcome to the United Kingdom. Enjoy your stay.
- ```
+Officer: Good morning. Where do you come from?
+Mr. Chen: I am from Taiwan.
+Officer: Fine. _______________
+Mr. Chen: Here you are.
+Officer: Welcome to the United Kingdom. Enjoy your stay.
+```
 (A) Where would you like to stay?
 (B) How long are you staying in the United Kingdom?
 (C) What’s the nature of your visit?
 (D) May I see your passport?
-18. Clerk: Do you have a reservation?
- Jack: Yes, I do. The name is Wang. W-A-N-G. Jack Wang.
- Clerk: _______________
- Jack: That can’t be right. I have my confirmation number here.
+
+18.
+``` 
+Clerk: Do you have a reservation?
+Jack: Yes, I do. The name is Wang. W-A-N-G. Jack Wang.
+Clerk: _______________
+Jack: That can’t be right. I have my confirmation number here.
+```
 (A) Okay. Let me check.
 (B) Smoking or non-smoking?
 (C) Here you are.
 (D) I’m sorry. I don’t have anything under that name.
-19. Customer: Could I get this tuxedo dry-cleaned by tomorrow?
- Clerk: _______________
- Customer: I’m sorry, but it’s pretty urgent. My friend is getting married this weekend.
- Clerk: Well, I’ll see what I can do.
+
+19. 
+```
+Customer: Could I get this tuxedo dry-cleaned by tomorrow?
+Clerk: _______________
+Customer: I’m sorry, but it’s pretty urgent. My friend is getting married this weekend.
+Clerk: Well, I’ll see what I can do.
+```
 (A) No problem.
 (B) That might be difficult.
 (C) It won’t cost you much.
 (D) I owe you one.
-20. Answering machine: Hi. This is Jean. Please leave your message after the beep.
- Tom: Hi. This is Tom....
- Jean: Oh, hi, Tom. It’s Jean. _______________ I was in the shower.
+
+20.
+```
+Answering machine: Hi. This is Jean. Please leave your message after the beep.
+Tom: Hi. This is Tom....
+Jean: Oh, hi, Tom. It’s Jean. _______________ I was in the shower.
+```
 (A) I cannot come to the phone right now.
 (B) Please leave a message.
 (C) Sorry I didn’t answer the phone right away.
