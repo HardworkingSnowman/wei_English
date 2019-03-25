@@ -9,7 +9,7 @@ not smart and that you will never be successful.
 spores of molds.
 * (A) reaction (B) function (C) injury (D) treatment
 4. Taiwan’s Penghu Islands were __________ to Lonely Planet’s Top Ten Secret Islands list in
-2011
+2011.
 * (A) proved (B) added (C) robbed (D) formed
 5. An important sign of __________ in a person is his/ her respect for others’ existence, need,
 choices and feelings.
@@ -84,8 +84,7 @@ Growing pains are really just a label (29) all sorts of uncertainties. Doctors k
 are not (30) dietary deficiency or growth problems. They seem more common in active children,
 and they tend to run in families.
 ```
-## 26
-(A) so (B) but (C) or (D) nor
+26. (A) so (B) but (C) or (D) nor
 27. (A) maximally (B) practically (C) willingly (D) competently
 28. (A) diagnose (B) affect (C) remember (D) strike
 29. (A) confining (B) covering (C) complicating (D) clearing
