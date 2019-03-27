@@ -4,28 +4,37 @@
 Mother’s Day is a time to __________ the special bond between mother and child.
 ```
 (A) eliminate (B) appreciate (C) manipulate (D) calculate
+* Ans: B
+
 ## 12
 ``` 
 The popularity of pizza in the U.S. exploded when American soldiers __________ home after World War II.
 ```
 (A) returned (B) escaped (C) abandoned (D) bombed
+* Ans: A
+
 ## 13
 ```
 Mickey Mouse was one of Walt Disney’s __________, and Walt himself provided Mickey’s
 voice.
 ```
 (A) equations (B) destructions (C) inventions (D) emotions
+* Ans: C
+
 ## 14
 ```
 A pesticide is a ____________ that kills harmful organisms and is used to control pests, e.g.
 insects, weeds or micro-organisms.
 ```
 (A) chemical (B) particle (C) fabric (D) vitamin
+* Ans: A
+
 ## 15
 ```
 The first ____________ in a soldier is his/ her endurance of fatigue; courage is only the second.
 ```
 (A) virus (B) virtue (C) venture (D) villain 
+* Ans: B
 
 # 對話測驗
 ## 21
@@ -39,6 +48,8 @@ John: Yes. It’s right across from the post office. _______________
 (B) You can’t run into it.
 (C) You can’t miss it.
 (D) You can’t lose it.
+* Ans: C
+
 ## 22
 ```
 Waiter: Are you ready to order?
@@ -50,6 +61,8 @@ May: Sounds great. We’ll have that.
 (B) Does it come with rice?
 (C) What would you like?
 (D) What do you recommend?
+* Ans: D
+
 ## 23 
 ```
 William: What do you think about the applicant?
@@ -61,6 +74,8 @@ Lisa: Well, I think she’s ready for a higher position than this one.
 (B) I don’t think she’s good looking.
 (C) I don’t think she’s qualified.
 (D) I think she fits this job.
+* Ans: A
+
 ## 24
 ``` 
 Richard: What kind of movie would you prefer? A comedy or documentary?
@@ -72,6 +87,8 @@ Jane: That works for me.
 (B) I can’t stand both.
 (C) Documentaries are my favorite.
 (D) I’m not that big on documentaries.
+* Ans: D
+
 ## 25
 ```
 Manager: I need to get to the airport by 6:30.
@@ -84,6 +101,7 @@ Manager: Yes, good idea.
 (B) Should I make it 6:00?
 (C) Should I go with you?
 (D) Should I book you a ticket?
+* Ans: A
 
 # 綜合測驗
 ```
@@ -103,10 +121,19 @@ takes place at bit-rates (40) for sending and receiving photographs, video clips
 and more.
 ```
 36. (A) graphs (B) applications (C) messages (D) texts
+* Ans: B
+
 37. (A) sells (B) sold (C) had sold (D) sale
+* Ans: B
+
 38. (A) due to (B) except (C) apart from (D) such as
+* Ans: D
+
 39. (A) Before (B) After (C) About (D) With
+* Ans: A
+
 40. (A) too fast (B) too slow (C) high enough (D) fashionable enough
+* Ans: C
 
 # 閱讀
 ```
@@ -130,21 +157,30 @@ The lives you save or the good you do is beside the point.
 (B) The self-ownership claim makes organ selling illegal.
 (C) One should not be entitled to making decisions over one’s own body parts.
 (D) The libertarian logic cannot fully explain organ selling.
+* Ans: D
+
 47. Which of the following about libertarianism is NOT correct?  
 (A) We all own ourselves, and are able to claim our rights to our body as property.
 (B) Libertarianism encourages free market with the least governmental control.
 (C) Markets should be operated under a free mechanism of supply and demand.
 (D) Libertarian notion of self-ownership makes organ selling wrong.
+* Ans: D
+
 48. The underlined word “advocates” refers to the _______________ of organ selling.  
 (A) supporters (B) opponents (C) bystanders (D) legislators
+* Ans: A
+
 49. According to the passage, what is the main reason for many people to agree to kidney sale?  
 (A) Our body is our property, and we should be able to sell the body parts.
 (B) Self-ownership underlies our rights to buy and sell anything.
 (C) It is moral to save lives as long as one does not endanger his/ her own.
 (D) Kidneys will have a higher demand than other organs on the open market.
+* Ans: C
+
 50. What does the author mean by “The lives you save or the good you do is beside the point.”?  
 (A) Although kidney transplantation can save lives, it is not worthwhile.
 (B) If one accepts the libertarian claim, selling or donating kidney is then irrelevant to its moral
 value.
 (C) No matter how many lives one saves, organ selling is still immoral.
 (D) Organ selling is a good deed and needs to be encouraged.
+* Ans: B
