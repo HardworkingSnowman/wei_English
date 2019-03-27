@@ -20,6 +20,9 @@ voice.
 ```
 (A) equations (B) destructions (C) inventions (D) emotions
 * Ans: C
+```
+(B) destruction: n. 毀壞， construction: n. 建築
+```
 
 ## 14
 ```
@@ -35,6 +38,9 @@ The first ____________ in a soldier is his/ her endurance of fatigue; courage is
 ```
 (A) virus (B) virtue (C) venture (D) villain 
 * Ans: B
+```
+(C) vecture: v. 冒險， adventure: n. 冒險
+```
 
 # 對話測驗
 ## 21
@@ -49,6 +55,10 @@ John: Yes. It’s right across from the post office. _______________
 (C) You can’t miss it.
 (D) You can’t lose it.
 * Ans: C
+```
+(A) look into ...: 調查 ...
+(B) run into ...: 偶遇 ...
+```
 
 ## 22
 ```
@@ -75,6 +85,9 @@ Lisa: Well, I think she’s ready for a higher position than this one.
 (C) I don’t think she’s qualified.
 (D) I think she fits this job.
 * Ans: A
+```
+(A) be overqualified: 大材小用， qualify: v. 使...有資格
+```
 
 ## 24
 ``` 
