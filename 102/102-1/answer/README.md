@@ -2,22 +2,50 @@
 ## 1
 Many immigrants feel sad and lonely because they cannot ____________ to life in a new country.
 (A) arrange (B) adjust (C) apply (D) adopt
+* Ans: B
+```
+(B) adjust to: 調整
+(C) apply to: 應用
+(D) adopt to: 採取
+```
 
 ## 2
 The human body, like a complex machine, grows and changes in ____________ to our
 environment, diet and habits.
 (A) fact (B) short (C) contact (D) response
+* Ans: D
+```
+(C) contact: v. 聯絡， contract: n. 合約， construct: v. 建築
+(D) response: n. 回復， request: n. 請求
+```
+
 ## 3
 To make their homestay a pleasant experience, students have to follow certain rules
 of ____________.
 (A) extinction (B) etiquette (C) import (D) income
+* Ans: B
+```
+(A) extinction: n. 絕種， extinct: vi. 絕種， instinct: n. 直覺
+(B) etiquette: n. 禮儀， manner: n. 禮儀, 行為, 態度
+(C) import: v. 進口， export: v. 出口
+(D) income: n. 收入， outcome: n. 結果
+```
+
 ## 4
 Today, whether people should keep guns at home remains a ____________ issue in
 the United States.
 (A) controversial (B) marriage (C) female (D) fair
+* Ans: A
+```
+(B) marriage: n. 婚姻， carriage: n. 馬車, 車廂
+(C) female: n. 女性， male: n. 男性
+(D) fair: n. 公平， fare: n. 費用
+```
+
 ## 5
 Nurses often take patients' ____________ to see if they have a fever.
 (A) team (B) trend (C) temper (D) temperature
+* Ans: D
 
 # 對話測驗
 ## 16
@@ -29,6 +57,7 @@ Hostess: Please wait to be seated.
 ```
 (A) Where are you from? (B) Who is coming for dinner?
 (C) Is it for here or to go? (D) Do you have a reservation?
+* Ans: D
 
 ## 17
 ```
@@ -40,6 +69,10 @@ Daniel: Okay. Then you can borrow mine when I finish reading it.
 ```
 (A) You are too much. (B) It is on sale now.
 (C) Oh, that’s too costly for me. (D) You cannot judge a book by its cover.
+* Ans: C
+```
+(D) judge a book by its cover: 以貌取人
+```
 
 ## 18
 ```
@@ -52,6 +85,7 @@ Student 2: Yes, it’s stealing someone else’s intellectual property for free.
 (B) I think attending the conference is fun.
 (C) I don’t think duplicating CD is legal.
 (D) I enjoy listening to the CD.
+* Ans:  C
 
 ## 19
 ```
@@ -62,6 +96,10 @@ Man: _______________
 ```
 (A) You can change it here. (B) Here is your change.
 (C) It is hard to change your mind. (D) The price is subject to change.
+* Ans: B
+```
+(D) The price is subject to change: 價格容易改變， subject: n. 科目 adj. 易變的
+```
 
 ## 20
 ```
@@ -74,6 +112,7 @@ Wife: Be careful, honey. I read that anti-depressants can result in short-term m
 (B) Did you expand the memory of the new computer?
 (C) Did you buy honey yesterday?
 (D) Did you know what led to economic depression?
+* Ans: A
 
 # 綜合測驗
 ```
@@ -88,7 +127,28 @@ humans as they grow older. Educating children about respect for people and anima
 of abandoned and abused animals.
 ```
 26. (A) considerate (B) considerable (C) jealous (D) jobless
+* Ans: A
+```
+(A) considerate: adj. 體貼的， consider: v. 考慮
+(C) jealous: adj. 忌妒的， envious: adj. 忌妒的
+
+```
+
 27. (A) treat (B) extract (C) mistreat (D) retreat
+* Ans: A
+
 28. (A) response (B) relaxation (C) responsibility (D) rebellion
+* Ans: C
+```
+(D) rebellion n. 暴動， revolution: n. 革命
+```
+
 29. (A) clever (B) cruel (C) caring (D) creative
+* Ans: B
+
 30. (A) foam (B) forgive (C) forecast (D) foster
+* Ans: D
+```
+(B) forgive: v. 原諒， forget: v. 忘記
+(C) forecast: v. 預測， boardcast: v. 廣播
+```
