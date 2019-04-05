@@ -102,7 +102,7 @@ You surprise me. 你嚇到我了
 (2) who 當作助詞: The person who you saw is my mom. 你看到的人是我媽
 
 人 + whose: 
-所有格: The girl whose hair is curly is my sister. 那個頭髮長的女生是我(妹/姊)
+所有格: The girl whose hair is long is my sister. 那個頭髮長的女生是我(妹/姊)
 
 人 + whom: 
 等同於助詞的 who: The person whom you saw is my mom. 你看到的人是我媽
