@@ -213,4 +213,4 @@ take 的動詞三態: take took taken
   the decorated room 被裝飾的房間
 ```
 * 這些記起來二技應該就很夠了，看起來沒有很多動詞，但是大部分都是這種規則，之後看到一個沒背到的就可以舉一反三
-(動詞三態變化表)[https://tripliz.com/2018/10/07/irregular-verbs/]
+[動詞三態變化表](https://tripliz.com/2018/10/07/irregular-verbs/)
