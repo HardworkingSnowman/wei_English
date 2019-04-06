@@ -212,5 +212,5 @@ take 的動詞三態: take took taken
 被動態也常常被當成形容詞用
   the decorated room 被裝飾的房間
 ```
+* 這些記起來二技應該就很夠了
 (動詞三態變化表)[https://tripliz.com/2018/10/07/irregular-verbs/]
-這些記起來二技應該就很夠了
