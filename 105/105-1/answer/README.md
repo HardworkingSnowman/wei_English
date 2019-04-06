@@ -177,12 +177,40 @@ whenever: 不管何時, ex. I can help you whenever you need me.: 不管何時�
 ```
 take 的動詞三態: take took taken
 動詞三態講解:
-第一態: 用在現在的時間，或表示事實，或是接在不定詞 to 後面。 但是 to 很賤，有時候是 to + v. ing，但是那些另外記，先假設 to 後面接的都是原型
+第一態: 或表示事實，或是接在不定詞 to 後面。 但是 to 很賤，有時候是 to + v. ing(例如 be used to + ving 習慣...)，但是那些另外記，先假設 to 後面接的都是原型
 第二態: 過去式，用法很簡單，只要是過去的時間的就用過去式
 第三態: 用在過去分詞或是被動態，
 
 ---------------------------------|-------------------------------|---------------------------------
             過去 2                           過去 1            現在(now)         未來
+未來最簡單: 用 will 表示比較長遠一點的
+  ex. I am going to play piano.: 我要彈鋼琴了
+用 be going to 表示即將發生的，或是短期內要發生的
+  ex. I will be a nurse: 我將來要當護士
 
+現在式也很簡單: 表示事實
+  ex. The sun rises from the east. 太陽從東邊升起
+如果要表示現在正在做的事，要用現在進行式 v. ing: 
+  ex. I am studying. 我正在讀書
+現在進行式常常被當形容詞用:
+  melting chocolate 正在融化的巧克力
 
+過去式不難: 在過去發生的
+  ex. I finished my homework. 我完成作業了
+如果要表示過去正在做的事，要用過去進行式 v. ing，有時會搭配 then(那時): 
+  ex. I was studying then. 我那時正在讀書
+
+過去分詞和被動態其實也不難懂，過去分詞有兩種: 1. 現在完成式 2. 過去完成式
+  1. 現在完成式就是妳在現在想表達已經完成的事，現在完成式常常搭配 since(自從) 用:
+    ex. He has been hardworking since he made a girlfriend. 自從他交了女朋友後就認真讀書
+    這個例句的時間是從 "過去1" 直到現在
+  2. 過去完成式是妳在過去1時，想要表達在過去2時做的事情，這種時態常常用在講述過去的閱讀測驗中
+    ex. I was playing computer game, and I had finished my homework. 我那時正在玩電腦，那時已經寫完作業了
+    playing computer game 是在過去1發生的，然後我想表達我在這之前(過去2)已經做完作業了
+被動態就是 be + 被動 v.:
+  ex. I am hit by him. 我被他打
+被動態也常常被當成形容詞用
+  the decorated room 被裝飾的房間
 ```
+(動詞三態變化表)[https://tripliz.com/2018/10/07/irregular-verbs/]
+這些記起來二技應該就很夠了
