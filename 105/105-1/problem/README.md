@@ -1,21 +1,34 @@
 # 字彙測驗
-1. Nowadays, dogs and cats are popular pets in people’s homes in many countries.
-(A) common (B) useless (C) free (D) strange
-的
-2. Most coffee shops create a comfortable and casual atmosphere for their customers.
-(A) informal (B) serious (C) professional (D) cautious
-的
-3. Keeping our homes clean and tidy is essential for our health and comfort.
-(A) chaotic (B) plastic (C) orderly (D) jointly
-的
-4. Most people believe that scientific advancement such as new medicine can help us live longer
-and healthier.
-(A) protection (B) program (C) promise (D) progress
-的
-5. The human brain is such a complex system that scientists are still trying to figure out how it
-functions.
-(A) confirmed (B) composed (C) complicated (D) concentrated
-的
+## 1
+```
+The United States Constitution was written in 1787. It tells how the government works and what
+__________ the people have.
+```
+(A) types (B) crimes (C) rights (D) states
+## 2
+```
+Life is__________ enough, but it can even be challenging if your self-perception is that you are
+not smart and that you will never be successful.
+```
+(A) pleasant (B) amusing (C) unique (D) tough
+## 3
+``` 
+Most often, hay fever is an allergic __________ to the pollen of trees, grasses or weeds, or the
+spores of molds.
+```
+(A) reaction (B) function (C) injury (D) treatment
+## 4
+``` 
+Taiwan’s Penghu Islands were __________ to Lonely Planet’s Top Ten Secret Islands list in
+2011.
+```
+(A) proved (B) added (C) robbed (D) formed
+## 5
+``` 
+An important sign of __________ in a person is his/ her respect for others’ existence, need,
+choices and feelings.
+```
+(A) curiosity (B) competition (C) maturity (D) champion
 
 # 對話測驗
 ## 16
