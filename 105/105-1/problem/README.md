@@ -1,34 +1,21 @@
 # 字彙測驗
-## 1
-```
-My younger brother _________ a funny clown on TV and made everyone laugh.
-```
-(A) interpreted (B) mimicked (C) illustrated (D) multiplied
-## 2
-```
-The wounded passengers screamed in __________ after the bus crashed into six vehicles on
-Maple Street.
-```
-(A) anguish (B) triumph (C) assistance (D) trial
-## 3
-```
-Abraham Lincoln led the United States through its Civil War, and his _________ of will
-was extraordinary.
-```
-(A) strength (B) hardship (C) tension (D) monument
-
-## 4
-```
-His last hope was __________ by the news of his son’s death.
-```
-(A) surpassed (B) shattered (C) supervised (D) sustained
-
-## 5
-```
-Susan felt a sense of ____________ when she heard the song that had been played at her
-high school prom.
-```
-(A) caution (B) dilemma (C) nostalgia (D) hazard
+1. Nowadays, dogs and cats are popular pets in people’s homes in many countries.
+(A) common (B) useless (C) free (D) strange
+的
+2. Most coffee shops create a comfortable and casual atmosphere for their customers.
+(A) informal (B) serious (C) professional (D) cautious
+的
+3. Keeping our homes clean and tidy is essential for our health and comfort.
+(A) chaotic (B) plastic (C) orderly (D) jointly
+的
+4. Most people believe that scientific advancement such as new medicine can help us live longer
+and healthier.
+(A) protection (B) program (C) promise (D) progress
+的
+5. The human brain is such a complex system that scientists are still trying to figure out how it
+functions.
+(A) confirmed (B) composed (C) complicated (D) concentrated
+的
 
 # 對話測驗
 ## 16
