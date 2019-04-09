@@ -9,7 +9,7 @@ Our art class this week is to create a ______ of one of Claude Monet’s masterp
 (A) flame: n. 火， frame: n. 框架
 (B) calculation: n. 計算， calculate: v. 計算， accumulation: n. 累積， accumulate: v. 累積
 (C) nourishment: n. 營養， nourish: v. 培養
-(D) duplicate: n./adj. 重複/重複的
+(D) duplicate: n./adj. 重複/重複的， duplication: n. 複製， clone: v. 複製人、複製品
 ```
 
 ## 7
@@ -20,7 +20,8 @@ Although my body feels fine, ________ I am very tired.
 * Ans: C
 ```
 (A) identity: n. 身分， identical: adj. 相同的， identically: adv. 相同地
-(C, D) mentally: adv. 精神上， physically: adj. 身體上， be exhausted: 筋疲力盡， exhausted mentally and physically: 身心俱疲
+(B) artificially: adv. 人工地， artificial: adj. 人工的， art: n. 藝術
+(C, D) mentally: adv. 精神上， physically: adv. 身體上， be exhausted: 筋疲力盡， exhausted mentally and physically: 身心俱疲
 ```
 
 ## 8
@@ -31,7 +32,8 @@ Sugar ________ very quickly when you put it into hot coffee.
 * Ans: B
 ```
 (A) evaporate: v. 蒸發， evaporation: n. 蒸發
-(B) dissolve: v. 融化， solve: v. 解決， resolve: v. 解決、決心
+(B) dissolve: v. 溶解， melt: v. 融化， solve: v. 解決， resolve: v. 解決、決心
+(C) dismays: v. 沮喪， disappoint: v. 使...失望， May: n. 五月， May Flower: 五月花， May Day: 五月天
 ```
 
 ## 9
@@ -41,9 +43,9 @@ No one knows for sure when the volcano’s next ________ will occur.
 (A) prohibition (B) eruption (C) pension (D) evacuation
 * Ans: B
 ```
-(A) prohibition: n. 禁止， exhibition: n. 展覽
-(B) eruption: n. 爆發， corruption: n. 腐敗， political corruption: 貪汙
-(C) pension: n. 養老金， tension: n. 張力、緊張
+(A) prohibition: n. 禁止， prohibit: v. 禁止， exhibition: n. 展覽， exhibit: v. 展覽
+(B) eruption: n. 爆發， explosion: n. 爆炸， corruption: n. 腐敗， political corruption: 貪汙
+(C) pension: n. 養老金， tension: n. 張力、緊張， attention: n. 注意
 (D) evacuation: n. 撤離， evacuate: v. 撤離， accurate: adj. 正確的
 ```
 
@@ -56,6 +58,8 @@ The dishes on the menu are _________ by the good wine perfectly.
 ```
 (A) comprehend: v. 理解， comprehention: n. 理解
 (B) complicate: v. 使...變複雜， duplicate: n. 重複
+(C) complement: v. 補充， implement: v. 實行， accomplishment: n. 成就， complete: v. 完成， delete: v. 刪除
+(D) compute: v. 計算， computer: n. 電腦， figure: v. 計算， figure out n.: 解出 n.
 ```
 
 # 綜合測驗
